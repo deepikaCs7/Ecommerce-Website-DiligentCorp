@@ -1,0 +1,22 @@
+<>Use the above image as a reference, complete the task with the
+recommended tech stack. Provide a E commerce website that can be used on
+all forms of devices such as andriod, ios, windows etc.
+
+What are the features available in this given code?
+
+Yes, include the authentication and payments options ( UPI, net banking,
+card payment etc), include shipment delivery tracking, whether the
+product is in stock or out of stock and also allow users to check for
+COD options.
+
+So the producers must be able to upload their products with images, with
+respective order ID, product category, receive the user’s order with the
+user shippment address.
+
+Right now I just want to build the website like this
+
+I need the technical architecture document for this
+
+yes for submission and pushing it on to github
+
+Create a txt file of the prompts that I have shared in this chat alone
